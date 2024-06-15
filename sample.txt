@@ -1,0 +1,3 @@
+Hello, world! Hello, universe.
+Welcome to the world of Python.
+Python and machine learning: Python, Python, and more Python!
